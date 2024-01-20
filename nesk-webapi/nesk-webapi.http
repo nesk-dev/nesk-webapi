@@ -1,0 +1,6 @@
+@nesk_webapi_HostAddress = http://localhost:5197
+
+GET {{nesk_webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
